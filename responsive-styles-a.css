@@ -56,7 +56,7 @@ section .content-secondary {
   height: 100%;
 }
 
-@media (max-width: 1000px) and (min-width: 450px) {
+@media (max-width: 1000px) and (min-width: 550px) {
   section .content-primary {
     width: 50%;
     height: 50%;
@@ -74,7 +74,7 @@ section .content-secondary {
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 550px) {
   .header-footer-size {
     height: 70px;
   }
